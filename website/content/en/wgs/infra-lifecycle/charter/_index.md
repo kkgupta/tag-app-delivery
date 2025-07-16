@@ -63,6 +63,7 @@ Without any claim to comprehensiveness:
 * Radius
 * Terraform
 * Tinkerbell
+* Omnistrate
 
 ## Alignment with TAG App Delivery Charter
 
